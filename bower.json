@@ -1,0 +1,17 @@
+{
+  "name": "gulp-boilerplate",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Joakim Ljungren <joakim@ljungren.se>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ljungren/gulp-boilerplate",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
